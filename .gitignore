@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Hedgehog test/Hedgehog test/bin/Debug/net6.0
+/Hedgehog test/Hedgehog test/obj
